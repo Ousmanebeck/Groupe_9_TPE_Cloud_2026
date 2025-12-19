@@ -1,8 +1,7 @@
 # Groupe_9_TPE_Cloud_2026
 
 ## Présentation du projet
-Ce dépôt contient les travaux réalisés par le **Groupe 9** dans le cadre du **TPE de Cloud Computing 2026**.  
-Les exercices portent sur des algorithmes fondamentaux, leur implémentation et leur explication détaillée.
+Ce dépôt contient les travaux réalisés par le **Groupe 9** dans le cadre du **TPE de Cloud Computing**.
 
 ---
 
