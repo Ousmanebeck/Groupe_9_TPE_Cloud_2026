@@ -11,10 +11,11 @@ Les exercices portent sur des algorithmes fondamentaux, leur implémentation et 
 | N° | Nom et Prénom              | Matricule |
 |----|----------------------------|-----------|
 | 1  | AHMAT ALI AL-IKHEDIR       | 23A322FS  |
-| 2  | Fatime Hamid Ambou         | 23B080FS  |
+| 2  | FATIME HAMID AMBOU         | 23B080FS  |
 | 3  | KHARACHI AHMAT ADOUM       | 23B144FS  |
-| 4  | Mohamed Arafat             | 23A565FS  |
+| 4  | MOHAMED ARAFAT             | 23A565FS  |
 | 5  | FATCHOU DANZLADA           | 22A981FS  |
+| 6  | OUSMANE IDRISS ADAM        | 23A238FS  |
 
 ---
 
